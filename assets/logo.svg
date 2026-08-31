@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 100" fill="none">
+  <!-- Symbol: Water Drop & Hands -->
+  <g transform="translate(10, 10)">
+    <!-- Water Drop -->
+    <path d="M42 12C42 12 22 36 22 50C22 61.0457 30.9543 70 42 70C53.0457 70 62 61.0457 62 50C62 36 42 12 42 12Z" stroke="#0955b5" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M37 42C37 37 41 33 46 32" stroke="#00a8e8" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- Left Supporting Hand -->
+    <path d="M10 50C10 50 16 66 30 74C37 78 41 80 42 80C42 80 34 76 26 70C18 64 12 56 12 56L6 54C4 53 2 55 4 57C8 63 16 75 28 82C34 85 40 86 42 86" stroke="#0955b5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Right Supporting Hand -->
+    <path d="M74 50C74 50 68 66 54 74C47 78 43 80 42 80C42 80 50 76 58 70C66 64 72 56 72 56L78 54C80 53 82 55 80 57C76 63 68 75 56 82C50 85 44 86 42 86" stroke="#0955b5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <!-- Typography matching exact brand lettering -->
+  <text x="110" y="46" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-size="30" font-weight="900" fill="#0955b5" letter-spacing="0.5">PT. TIRTA BOGA</text>
+  <text x="110" y="78" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-size="30" font-weight="900" fill="#0955b5" letter-spacing="0.5">MEGA KREASI</text>
+
+  <!-- Blue accent dots and line as in original letterhead -->
+  <circle cx="370" cy="82" r="3.5" fill="#0955b5"/>
+  <circle cx="384" cy="82" r="3.5" fill="#0955b5"/>
+  <circle cx="398" cy="82" r="3.5" fill="#0955b5"/>
+  <line x1="410" y1="82" x2="510" y2="82" stroke="#0955b5" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
